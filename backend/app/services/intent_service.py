@@ -1,6 +1,7 @@
 from typing import Dict, Any, List, Optional
 import json
 import os
+import sys
 import openai
 import re # Import regex
 from .hevy_api import HevyAPI
